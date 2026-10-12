@@ -33,7 +33,3 @@ Take control of a spaceship, fight enemy units, and survive in an arcade-style s
 - `Assets/` — Game assets, scripts, and scenes
 - `Packages/` — Unity package dependencies
 - `ProjectSettings/` — Unity project configuration
-
-## Screenshots
-
-Add screenshots of the gameplay here.
